@@ -1,0 +1,3 @@
+[submodule "tools/wacker"]
+	path = tools/wacker
+	url = https://github.com/redlolz/wacker
