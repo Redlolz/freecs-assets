@@ -1,0 +1,2 @@
+crate-thanks1  96x128
+crate-thanks2  96x128
